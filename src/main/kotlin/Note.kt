@@ -1,4 +1,3 @@
-import com.sun.source.tree.NewArrayTree
 
 data class Note<T>(
     val nid: String,
